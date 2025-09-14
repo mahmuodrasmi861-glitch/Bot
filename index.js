@@ -26,4 +26,4 @@ client.on("messageCreate", async (message) => {
   }
 });
 
-client.login("MTQxNjc1NTUxMDMwODI0MTUzOQ.GeygTK.wmHkSELD04XXCGUOZ5PoZknu8IQ5oNXAtGYxwA");
+client.login("process.env.TOKEN");
